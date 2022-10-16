@@ -1,6 +1,6 @@
 //: ![Swift](swift-logo.png)
 //: Swift v5.7 [official docs](https://docs.swift.org/swift-book/LanguageGuide/Closures.html)
-//: # Closures
+//: # 7. Closures
 //:
 //:
 //: Closures are self-contained blocks of functionality that can be passed around and used in your code. Closures in Swift are similar to blocks in C and Objective-C and to lambdas in other programming languages.
